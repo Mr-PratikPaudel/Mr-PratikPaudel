@@ -5,7 +5,7 @@ Email Me 👉 ✉️ **pratikpaudel101@gmail.com** For Collaboration/Project or 
 
 - 🔭 **I’m currently Studying:** Computer Engineering
 - 🌱 **I’m currently learning:** Cyber Security
-- 👯 **I’m looking to collaborate on:**Cyber Security Projects
+- 👯 **I’m looking to collaborate on:** Cyber Security Projects
 - 🤔 **I’m looking for help with:** Pentesting
 - 📫 **How to reach me:** pratikpaudel101@gmail.com
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
